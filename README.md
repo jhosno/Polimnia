@@ -1,2 +1,2 @@
-# polimnia
+# ARGOS
 Medidor de estrés diario
